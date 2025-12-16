@@ -1,6 +1,6 @@
 # Thermal-Memory-of-Chair
 Physics-Guided Generalization for Sitting Posture Inference Using Thermal Imaging
-[Sitting-Posture-Inference-Using-Thermal-Imaging-Code-and-Dataset Download Links]([https://pan.baidu.com/s/1MKA2VlKD-Jivxa9ovnpD5g?pwd=1udu]) Extraction Code: 2025
+[Sitting-Posture-Inference-Using-Thermal-Imaging-Code-and-Dataset Download Links](https://pan.baidu.com/s/1MKA2VlKD-Jivxa9ovnpD5g?pwd=1udu) Extraction Code: 2025
 
 Code Content:
 This code contains scripts for data preprocessing, model training, and other related tasks.
